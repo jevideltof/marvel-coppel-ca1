@@ -1,0 +1,6 @@
+.env
+venv
+flask
+Dockerfile
+uwsgi.ini
+__pycache__/
